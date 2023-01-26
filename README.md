@@ -54,6 +54,8 @@ All above features measured in kg/$m^3$
 ![Feature correlation](https://github.com/ahmecse/Concrete-Compressive-Strength-Prediction-using-ML/blob/0b8ffa87629dc7e972d10ce8b377fcee7c5cfa41/resources/1.png)
 #### Feature importance
 ![Feature importance](https://github.com/ahmecse/Concrete-Compressive-Strength-Prediction-using-ML/blob/0b8ffa87629dc7e972d10ce8b377fcee7c5cfa41/resources/3.png)
+#### Feature of the given data sets and the models 
+![Feature importance](https://github.com/ahmecse/Concrete-Compressive-Strength-Prediction-using-ML/blob/9496ade498919091cf36a5b5812bed303da48c6a/resources/5.png)
 #### Final Comparison
 ![Final Comparison](https://github.com/ahmecse/Concrete-Compressive-Strength-Prediction-using-ML/blob/0b8ffa87629dc7e972d10ce8b377fcee7c5cfa41/resources/4.png)
 

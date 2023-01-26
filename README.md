@@ -6,7 +6,7 @@ Concrete is one of the most important materials in Civil Engineering. Knowing th
 
 
 
-Please refer [*ConcreteCompressiveStrengthPrediction.ipynb*](https://github.com/pranaymodukuru/Concrete-compressive-strength/blob/master/ConcreteCompressiveStrengthPrediction.ipynb) for code.
+Please refer [*GE22M009_concrete_comprehensive_strength_with_linear_regres.ipynb*](https://github.com/ahmecse/Concrete-Compressive-Strength-Prediction-using-ML/blob/0b8ffa87629dc7e972d10ce8b377fcee7c5cfa41/GE22M009_concrete_comprehensive_strength_with_linear_regres.ipynb) for code.
 
 ## 1. Problem Statement
 Predicting Compressive Strength of Concrete given its age and quantitative measurements of ingredients.
@@ -51,17 +51,12 @@ All above features measured in kg/$m^3$
 ## 4. Results
 
 #### Feature correlation
-![Feature correlation](https://github.com/pranaymodukuru/Concrete-compressive-strength/blob/master/imgs/corr.png)
+![Feature correlation](https://github.com/ahmecse/Concrete-Compressive-Strength-Prediction-using-ML/blob/0b8ffa87629dc7e972d10ce8b377fcee7c5cfa41/resources/1.png)
 #### Feature importance
-![Feature importance](https://github.com/pranaymodukuru/Concrete-compressive-strength/blob/master/imgs/feat_imp.png)
+![Feature importance](https://github.com/ahmecse/Concrete-Compressive-Strength-Prediction-using-ML/blob/0b8ffa87629dc7e972d10ce8b377fcee7c5cfa41/resources/3.png)
 #### Final Comparison
-![Final Comparison](https://github.com/pranaymodukuru/Concrete-compressive-strength/blob/master/imgs/comparision.png)
+![Final Comparison](https://github.com/ahmecse/Concrete-Compressive-Strength-Prediction-using-ML/blob/0b8ffa87629dc7e972d10ce8b377fcee7c5cfa41/resources/4.png)
 
 
 ## 5. References
 1. https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
-#� �C�o�n�c�r�e�t�e�-�C�o�m�p�r�e�s�s�i�v�e�-�S�t�r�e�n�g�t�h�-�P�r�e�d�i�c�t�i�o�n�-�u�s�i�n�g�-�L�i�n�e�a�r�-�R�e�g�r�e�s�s�i�o�n�-�
-�
-�#� �C�o�n�c�r�e�t�e�-�C�o�m�p�r�e�s�s�i�v�e�-�S�t�r�e�n�g�t�h�-�P�r�e�d�i�c�t�i�o�n�-�u�s�i�n�g�-�M�L�
-�
-�

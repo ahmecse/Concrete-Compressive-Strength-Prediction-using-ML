@@ -63,7 +63,7 @@ Please refer [*3-Gradient_Descent_And_ its_variants.ipynb*](https://github.com/a
     * Batch Gradient Descent without Input Data Normalization (Pytorch)
     * Batch Gradient Descent with Input data normalization (Pytorch)
 * ### Metrics Comparison
-![Matrics Comparison](https://github.com/ahmecse/Concrete-Compressive-Strength-Prediction-using-ML/blob/e40b99d4d1345fa0704abe745051ba48db05447f/bgd.png)
+![Matrics Comparison](https://github.com/ahmecse/Concrete-Compressive-Strength-Prediction-using-ML/blob/7432b7f6b4e4ad6b58bfa9937f5fbbea8cf91204/resources/bgd.png)
 
 * ## Stochastic Gradient Descent
   * Stochastic gradient descent is an optimization algorithm used to minimize a cost function by iteratively adjusting the model parameters based on the gradient of the cost function computed using a single training example at a time. The following implementations of stochastic gradient descent are available in this repository:

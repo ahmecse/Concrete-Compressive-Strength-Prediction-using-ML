@@ -105,7 +105,7 @@ Please refer [*3-Gradient_Descent_And_ its_variants.ipynb*](https://github.com/a
 #### Feature of the given data sets and the models 
 ![Feature importance](https://github.com/ahmecse/Concrete-Compressive-Strength-Prediction-using-ML/blob/9496ade498919091cf36a5b5812bed303da48c6a/resources/5.png)
 #### Final Comparison
-![Final Comparison](https://github.com/ahmecse/Concrete-Compressive-Strength-Prediction-using-ML/blob/0b8ffa87629dc7e972d10ce8b377fcee7c5cfa41/resources/4.png)
+![Final Comparison](https://github.com/ahmecse/Concrete-Compressive-Strength-Prediction-using-ML/blob/09f796711a13ff163c652022b7bbf7043c25d503/resources/finallr.png)
 
 
 ## 5. References
